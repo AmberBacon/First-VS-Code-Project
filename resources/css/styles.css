@@ -1,9 +1,29 @@
  h1 {
-    color: orange;
+    color: rgb(0, 119, 255);
     margin-left: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
   }
 
-#information {
-    font-size: 20px;
+.information h1 {
+    font-size: 50px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;   
+    text-align: center;
+    font-weight: bold;
 }
 
+.informationheading h4 {
+    text-align: center;
+    font-weight: bold;
+}
+.carousel-caption h2
+ {
+    font-size: 90px;
+    text-align: center;
+    background-color:lightseagreen;
+    opacity: .75;
+}
+
+.carousel-caption h5 {
+    text-align: left;
+    background-color:darkmagenta;
+}
